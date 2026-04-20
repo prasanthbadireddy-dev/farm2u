@@ -6,8 +6,6 @@ __pycache__/
 env/
 venv/
 ENV/
-backend/ml_model/*.pkl
-backend/ml_model/model_info.json
 
 # Keep production data but ignore temp files
 *.log
