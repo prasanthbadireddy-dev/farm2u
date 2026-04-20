@@ -1,0 +1,262 @@
+{
+  "farmers": {
+    "a@a.com": {
+      "id": "0a6cf1cc-abd5-4684-a954-b2571b44ad3b",
+      "name": "A",
+      "email": "a@a.com",
+      "password": "$2b$12$eeI4SMm92WtgxYCO6wUx1.zMcI2vHHplPFphoA3pl5txcwyEo6ueS",
+      "mobile": "1",
+      "crops": []
+    },
+    "monish@gmail.com": {
+      "id": "01a3b132-e0b0-4b82-84bf-7578ab36b94b",
+      "name": "monish",
+      "email": "monish@gmail.com",
+      "password": "$2b$12$bvubIdJxMPvVc64pmEvbg.4nlKxZuCoD8KRvRbRH8InNBR8v0GfTK",
+      "mobile": "9346368788",
+      "crops": []
+    },
+    "yasmin@gmail.com": {
+      "id": "acc50ea4-954d-48e8-90ee-b41d98318e2d",
+      "name": "yasmin",
+      "email": "yasmin@gmail.com",
+      "password": "$2b$12$dx2vu9V58umm47oTOtSZKuX0cI017ps1O/GuaLn568l2iEXyYwEq6",
+      "mobile": "123457956",
+      "crops": []
+    },
+    "dinesh@gmail.com": {
+      "id": "997a324c-0f8d-41ac-9bc6-7f666c6b5638",
+      "name": "dinesh",
+      "email": "dinesh@gmail.com",
+      "password": "$2b$12$PEOHcjA4o/s3kH3grSP8V.Qsl..wXSlZ7njS8DxOM7M.CBVJ9UP9i",
+      "mobile": "9493596341",
+      "crops": []
+    },
+    "vennela@gmail.com": {
+      "id": "dfccc73c-3bcd-49a4-bf78-5b3f1b8e09ce",
+      "name": "vennela",
+      "email": "vennela@gmail.com",
+      "password": "$2b$12$rHIVuKKn85JpRzXdirj8peiB7I0l9FM/gdNl9Pnq66f5vh/Q9R7X.",
+      "mobile": "8096202548",
+      "crops": []
+    },
+    "mani@gmail.com": {
+      "id": "ac031f65-9f3d-4628-9cbc-e09eedfad7fb",
+      "name": "manikanta",
+      "email": "mani@gmail.com",
+      "password": "$2b$12$fWQLm5suG30/MNs10YqWrO9oHhyTV.Wl0Dy6gcQzjAocWaZUdfJbG",
+      "mobile": "998745621",
+      "crops": []
+    },
+    "rohiladharmana@gmail.com": {
+      "id": "594e4116-c6cb-4caf-9db0-8deeeb537d44",
+      "name": "Rohila",
+      "email": "rohiladharmana@gmail.com",
+      "password": "$2b$12$nuKaALGmUPneYkNXJ0fRO.ROP8Og6yB.3Mgfp76QfFdEC0kh.kqS.",
+      "mobile": "9398833759",
+      "crops": []
+    },
+    "bhanu@gmail.com": {
+      "id": "929b07b4-6fad-4b92-a2e8-44b1ad49464e",
+      "name": "bhanu",
+      "email": "bhanu@gmail.com",
+      "password": "$2b$12$UEtDQMLrVX8Lu3h7CyHs1ONFIM0xa/hBCiebG.cD87fmLT3lqRPjO",
+      "mobile": "94441513435",
+      "crops": []
+    },
+    "agastya@gmail.com": {
+      "id": "5c495db0-6318-4899-a5e4-f629bd4b7beb",
+      "name": "agastya",
+      "email": "agastya@gmail.com",
+      "password": "$2b$12$qzOG0c/1ZyPT/qPsxuq2Be2rkekPTKNhUthhW7dIH2Q2q9lSOj3pq",
+      "mobile": "9704382335",
+      "crops": []
+    },
+    "vennela@0110": {
+      "id": "2e03a207-ed91-48f7-a7ff-96f4bae015da",
+      "name": "vennela",
+      "email": "vennela@0110",
+      "password": "$2b$12$wiMlqiEHaGTNtWmhdVIOZOYmNENASUYco7PdUR6IXDpH5DzMYZgYe",
+      "mobile": "9123414231",
+      "crops": []
+    },
+    "testfarmer@gmail.com": {
+      "id": "c9b47c36-bcb1-40f0-9038-3c2bedfc876d",
+      "name": "Test Farmer",
+      "email": "testfarmer@gmail.com",
+      "password": "$2b$12$a9d8zB.Xop0f0We0dxWejeGNIo.BOH0cJm9LpyMuKwxKjhyPArEcW",
+      "mobile": "1234567890",
+      "crops": []
+    },
+    "joe@farm.com": {
+      "id": "e4843b40-d154-4dde-af0f-5ca78d023273",
+      "name": "Farmer Joe",
+      "email": "joe@farm.com",
+      "password": "$2b$12$LzOIeGa9GoWF9.ujY3og6.knTvjvhu.3Usbxn7NnUmQ3BOOQLlonS",
+      "mobile": "1234567890",
+      "crops": []
+    },
+    "rohila@gmail.com": {
+      "id": "901ecb1b-cc49-4390-a0e6-be51657dc514",
+      "name": "rohila",
+      "email": "rohila@gmail.com",
+      "password": "$2b$12$zHexF8HQJk3v.ydWZOSgkuXbXH8Hj1q0oJOJ4fJLzjYTnC8SQEPQC",
+      "mobile": "9337789545",
+      "crops": []
+    },
+    "rohila16@gmail.com": {
+      "id": "eefe5619-21f7-44a3-abdf-52e32ca18590",
+      "name": "rohila",
+      "email": "rohila16@gmail.com",
+      "password": "$2b$12$IDbQ.TfIswm4fLaN9uWosuG8j2SgRFYd7EsQoqOuIAQkvN0lPtLea",
+      "mobile": "9393322781",
+      "crops": []
+    },
+    "rs@gmail.com": {
+      "id": "352f2dcb-1ead-4342-82fe-b42d4e73a1d5",
+      "name": "rs",
+      "email": "rs@gmail.com",
+      "password": "$2b$12$vfOfCs8LJtg7XYc6Okk9GO9YQY4Hi3uipIvWcxkncpCxeoLnTndaG",
+      "mobile": "1234567895",
+      "crops": []
+    },
+    "ps@gmail.com": {
+      "id": "8448d6a3-8c4f-4b4a-a88c-7568aed4215a",
+      "name": "prasanth",
+      "email": "ps@gmail.com",
+      "password": "$2b$12$jrkqnAjHC49aODstCmzGz.IImtPHz2Sy0GwuHQaMoe9iIqqzjUZGi",
+      "mobile": "7780395977",
+      "crops": []
+    }
+  },
+  "consumers": {
+    "prasanth@1610": {
+      "id": "a30ef8b9-804e-4d1e-9da5-a1956ee29df6",
+      "name": "prasanth",
+      "email": "prasanth@1610",
+      "password": "$2b$12$TCNVogEdlpXy3sMMchhTo.ImEUlsiXbw/MTVIeDKuqyzsBGuq2wZy",
+      "mobile": "7780395999",
+      "location": "Rajahmundry"
+    },
+    "prasanth@gmail.com": {
+      "id": "80093986-b413-4458-b584-9c68a9805d02",
+      "name": "prasanth",
+      "email": "prasanth@gmail.com",
+      "password": "$2b$12$aIvPjrv8kykGqInM9Ez34u6BD0UyHuGYBE/UWWItoDtQhW0gTkmUS",
+      "mobile": "7780395944",
+      "location": "rajahmundry"
+    },
+    "dinesh@gmail.com": {
+      "id": "5e6c247b-3f77-4082-8e73-011609f0f60d",
+      "name": "dinesh",
+      "email": "dinesh@gmail.com",
+      "password": "$2b$12$ezAJMhgWOqaExvtQlG3bm.u.6wDqNHw0hScfcDPj/2ZGlKPp/gmKa",
+      "mobile": "7780399522",
+      "location": "srikakulam"
+    },
+    "doppa@gmail.com": {
+      "id": "b0c85c55-5914-442b-afae-71a8826e89ed",
+      "name": "vennela",
+      "email": "doppa@gmail.com",
+      "password": "$2b$12$fgv4.53QziRUs5iWtTDZxeIsw.6ilvZp6St6Afl46o5d997csdC9e",
+      "mobile": "756984265",
+      "location": "vishakaptnma"
+    },
+    "nishkaladuvva28@gmail.com": {
+      "id": "c3ea158a-ca95-4f0e-a7dd-056d294f9975",
+      "name": "Nishkala",
+      "email": "nishkaladuvva28@gmail.com",
+      "password": "$2b$12$LpZaYPZGqc8YxhhYGlgqPOEw7mIasi5PwfSanB2V61hXs8xvtrX5C",
+      "mobile": "9912088001",
+      "location": "vishakapatnam"
+    },
+    "satish@gmail.com": {
+      "id": "18cc7f39-a84a-4f99-9476-1949a8a7797c",
+      "name": "satish",
+      "email": "satish@gmail.com",
+      "password": "$2b$12$34cs8OOv0mMDIBm6bYVKS.lwQ4dD9.KiVro3jW6oaBQUPVgD4ey0G",
+      "mobile": "9948712312",
+      "location": "rajahmundry"
+    },
+    "vennela@gmail.com": {
+      "id": "e60b7327-0cb0-4db4-9eed-3cf0fdb427e5",
+      "name": "vennela",
+      "email": "vennela@gmail.com",
+      "password": "$2b$12$xon/tY7cFzqmsPXFGDV10OJlZRXLVbTTezcMaSym.nlhKfRDHnH6.",
+      "mobile": "8096202348",
+      "location": "rajahmundry"
+    },
+    "agastya143@gmail.com": {
+      "id": "25fa0ab3-bd34-4eae-83f4-db26e985a890",
+      "name": "agastya",
+      "email": "agastya143@gmail.com",
+      "password": "$2b$12$YuZebTBuK/2wQcOYO2qSVe0Z26Alb3pIJkZZpafZiufJlmyGD5jBm",
+      "mobile": "12324598763",
+      "location": "rajahmundty"
+    },
+    "vennela@0110": {
+      "id": "4483671a-ac8b-4c0a-8c77-907b52247de5",
+      "name": "Vennele",
+      "email": "vennela@0110",
+      "password": "$2b$12$OZU5ClYt6r8B7xrbSShbtuePOfEeztc8dyCIXXwbvHPQ6XR.L0rr6",
+      "mobile": "9121664132",
+      "location": "eluru"
+    },
+    "testconsumer@gmail.com": {
+      "id": "c4675c8e-d862-460d-9375-523d7eac77d1",
+      "name": "Test Consumer",
+      "email": "testconsumer@gmail.com",
+      "password": "$2b$12$gpAVwD/NRL6ibXwd9Qi3CujmDGb9jQz0ZlWasxuIhQsnSlQBz7TmS",
+      "mobile": "9876543210",
+      "location": "Vijayawada"
+    },
+    "cal@shop.com": {
+      "id": "c67261c7-6c31-459e-b766-ad1444bb895e",
+      "name": "Consumer Cal",
+      "email": "cal@shop.com",
+      "password": "$2b$12$eaINGH8MIj.MqhleW839iuNxe9x2B7PM4TjenZ6gMSG6aPHoNY28y",
+      "mobile": "0987654321",
+      "location": "Guntur"
+    },
+    "rohila143@gmail.com": {
+      "id": "6e5d0464-ae1f-4532-8aa7-38616ae1bcb6",
+      "name": "rohila",
+      "email": "rohila143@gmail.com",
+      "password": "$2b$12$AF6xzqt/TWopqHyLQawIQur92gPKKInCWH/EJ0NJ1kmJWEXWBK.9i",
+      "mobile": "9332145673",
+      "location": "rajahmundry"
+    },
+    "gopi@gmail.com": {
+      "id": "1efec895-d2f1-4f4d-92f7-55fa215063f1",
+      "name": "gopi",
+      "email": "gopi@gmail.com",
+      "password": "$2b$12$tXfYk4j9GTT727yysPgBc.ylaVdneNMzpWlZfoAmCPlIT6j4VfsHm",
+      "mobile": "7890654321",
+      "location": "vishakapatnam"
+    },
+    "rakesh@gmail.com": {
+      "id": "56d96007-81cf-468a-865d-63153f27faf7",
+      "name": "rakesh",
+      "email": "rakesh@gmail.com",
+      "password": "$2b$12$.iCQ8ap/kc1/HHYOqv7Xv.c7KarM3a1V6LFAfH7j7U5mA8DnRhFJK",
+      "mobile": "9121253494",
+      "location": "rajahmundry"
+    },
+    "tharakesh@gmail.com": {
+      "id": "24079a9f-e9b1-436a-88ed-797f972f7b06",
+      "name": "tharakesh",
+      "email": "tharakesh@gmail.com",
+      "password": "$2b$12$bOEhcU.WxSdj1Lh/SZwko.8qWGOjWcT5QNJhpqgAjyxs0He/IS6VK",
+      "mobile": "9381345762",
+      "location": "vishakapatnam"
+    },
+    "lavanya@gmail.com": {
+      "id": "e0f91a59-5910-4b49-b484-5afc60b358ef",
+      "name": "lavanya",
+      "email": "lavanya@gmail.com",
+      "password": "$2b$12$eDMMdK4G73t4CNXN3b/71O9b0TygUmaubxMYmJ8WOI2xxgCtVqwF2",
+      "mobile": "7780788114",
+      "location": "vishakapatnam"
+    }
+  }
+}

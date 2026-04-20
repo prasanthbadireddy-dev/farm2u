@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+backend/ml_model/*.pkl
+backend/ml_model/model_info.json
+
+# Keep production data but ignore temp files
+*.log
+backend/*.log
+backend/err.txt
+backend/out.txt
+backend/py_out.txt
+backend/startup.log
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+.gemini/
+.agents/
+.vscode.zip
+
+# OS
+.DS_Store
+Thumbs.db

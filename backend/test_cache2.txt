@@ -1,0 +1,2 @@
+Cache size: 95
+Total entries: 200
